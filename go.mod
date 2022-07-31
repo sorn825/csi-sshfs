@@ -1,7 +1,5 @@
 module github.com/sorn825/csi-sshfs
 
-go 1.14
-
 require (
 	github.com/container-storage-interface/spec v1.0.0
 	github.com/davecgh/go-spew v1.1.1 // indirect
